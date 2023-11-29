@@ -1,0 +1,40 @@
+/// __________________________________Products_________________
+
+GET http://localhost:8080/api/products
+
+###
+
+GET http://localhost:8080/api/products/dlñfgksdlñ
+
+###
+
+post http://localhost:8080/api/products
+
+###
+
+put http://localhost:8080/api/products/adasdasc
+
+###
+
+delete http://localhost:8080/api/products/fgsdfsdf
+
+
+/// __________________________________Products_________________
+
+GET http://localhost:8080/api/carts
+
+###
+
+GET http://localhost:8080/api/carts/dlñfgksdlñ
+
+###
+
+post http://localhost:8080/api/carts
+
+###
+
+put http://localhost:8080/api/carts/adasdasc
+
+###
+
+delete http://localhost:8080/api/carts/fgsdfsdf
