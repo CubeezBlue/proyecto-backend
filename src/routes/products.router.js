@@ -38,7 +38,7 @@ router
             })
 
             res.status(404).send({
-                product: 'product'
+                product: result
             })
         } catch {
             console.log("Hubo un error")
